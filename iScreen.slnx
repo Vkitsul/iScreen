@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/iScreen.Core/iScreen.Core.csproj" />
+    <Project Path="src/iScreen.Host/iScreen.Host.csproj" />
+    <Project Path="src/iScreen.Tray/iScreen.Tray.csproj" />
+  </Folder>
+</Solution>
